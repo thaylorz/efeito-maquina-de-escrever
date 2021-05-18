@@ -1,5 +1,7 @@
-# Efeito máquina de escrever com JavaScript
+# Simples efeito de máquina de escrever
 
-link para a página
+Simples efeito de máquina de escrever utilizando apenas HTML5, CSS3 e JavaScript.
 
-![Alt Text](https://media.giphy.com/media/VzNubaBr9wpdWWp2LK/giphy.gif)
+[Visualize aqui](https://thaylorz.github.io/feite-maquina-de-escrever/)
+
+![https://media.giphy.com/media/VzNubaBr9wpdWWp2LK/giphy.gif](https://media.giphy.com/media/VzNubaBr9wpdWWp2LK/giphy.gif)
